@@ -1,2 +1,2 @@
 # doc
-documenti di progetto e manuali
+documenti di progetto, manuali e diario di bordo 
